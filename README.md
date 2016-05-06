@@ -1,4 +1,3 @@
-pearson
+Work
 =======
-
-Pearson
+Small code pieces
